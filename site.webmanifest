@@ -1,0 +1,9 @@
+{
+  "name": "Rafay Hub",
+  "short_name": "Rafay Hub",
+  "start_url": "/RafayHub/",
+  "scope": "/RafayHub/",
+  "display": "standalone",
+  "description": "100 free business, creator, social media, design, text and productivity tools.",
+  "icons": []
+}
