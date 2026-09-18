@@ -1,4 +1,4 @@
-RAFAY HUB — 100 TOOL WEBSITE
+RAFAY HUB — 100+ TOOL WEBSITE
 ================================
 Static HTML/CSS/JS site. No build step or backend required.
 
@@ -8,7 +8,7 @@ DEPLOYMENT
 - For Google Search Console, submit the final sitemap URL after deployment.
 
 IMPORTANT
-- The site includes 100 individual tool pages and a searchable/filterable hub.
+- The site includes 100+ individual tool pages and a searchable/filterable hub.
 - Some tools are fully browser-functional (calculators, text tools, image utilities, generators).
 - Tools that depend on external platform data/APIs are intentionally implemented without fake data; they provide useful local workflows and can be connected to APIs later.
 - Before enabling advertising, replace the placeholder privacy/ad disclosures with the exact requirements of the chosen ad provider and your jurisdiction.
